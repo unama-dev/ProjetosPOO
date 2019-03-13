@@ -16,7 +16,7 @@ class Crianca {
     }
 
     void nadar(double metros){
-        System.out.println("Nadando " + metros + " metros");
+        System.out.println("Nadand " + metros + " metros");
     }
 
     String sorrir() {
