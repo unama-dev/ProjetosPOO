@@ -19,5 +19,7 @@ public class Main {
         System.out.println(meuCarro.velocidadeAtual);
         meuCarro.acelera(30);
         System.out.println(meuCarro.velocidadeAtual);
+        meuCarro.freia();
+        System.out.println(meuCarro.velocidadeAtual);
     }
 }
